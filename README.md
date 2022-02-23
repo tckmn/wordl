@@ -1,0 +1,1 @@
+https://tck.mn/wordle
